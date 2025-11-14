@@ -10,8 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
     "react": "19.0.0",
-    "react-native": "0.78.0"
+    "react-native": "0.78.0",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-gesture-handler": "^2.24.0",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-nitro-modules": "^0.29.4",
+    "react-native-nitro-sound": "^0.2.5",
+    "react-native-safe-area-context": "^5.2.0",
+    "react-native-screens": "^4.9.1",
+    "react-native-vector-icons": "^10.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
